@@ -1,0 +1,1 @@
+execute as @e[tag=earth.block.new] at @s run function earth.block:place/block/dynamic_block

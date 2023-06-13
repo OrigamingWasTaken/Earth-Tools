@@ -1,0 +1,7 @@
+{
+    "values": [
+        "oneiric_tools:load",
+        "#smithed.custom_block:load",
+        "earth.block:load"
+    ]
+}

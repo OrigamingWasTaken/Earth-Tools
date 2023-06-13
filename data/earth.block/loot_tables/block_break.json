@@ -1,0 +1,153 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "earth:ancient_totem",
+            "conditions": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{data:{block_id:\"earth:ancient_totem\"}}"
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "earth:booster_lootbox",
+            "conditions": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{data:{block_id:\"earth:booster_lootbox\"}}"
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "earth:common_lootbox",
+            "conditions": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{data:{block_id:\"earth:common_lootbox\"}}"
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "earth:copper_totem",
+            "conditions": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{data:{block_id:\"earth:copper_totem\"}}"
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "earth:diamond_totem",
+            "conditions": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{data:{block_id:\"earth:diamond_totem\"}}"
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "earth:gold_totem",
+            "conditions": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{data:{block_id:\"earth:gold_totem\"}}"
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "earth:iron_totem",
+            "conditions": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{data:{block_id:\"earth:iron_totem\"}}"
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "earth:legendary_lootbox",
+            "conditions": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{data:{block_id:\"earth:legendary_lootbox\"}}"
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "earth:netherite_totem",
+            "conditions": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{data:{block_id:\"earth:netherite_totem\"}}"
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "earth:rare_lootbox",
+            "conditions": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{data:{block_id:\"earth:rare_lootbox\"}}"
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "earth:uncommon_lootbox",
+            "conditions": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{data:{block_id:\"earth:uncommon_lootbox\"}}"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
