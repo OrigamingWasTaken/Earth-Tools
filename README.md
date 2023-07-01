@@ -17,7 +17,7 @@ In total, you need 2 files for a fully working custom block.
 
 ### Placing
 You can use the template below and modify it to your liking:
-``` ```
+```hs
 {
     "pools": [
       {
@@ -37,7 +37,7 @@ You can use the template below and modify it to your liking:
       }
     ]
   }
-``` ```
+```
 All the "flags" you can use:
 - Item Texture: Custom Model Data used for the block texture when held
 - Hidden Block: The block used for the blocks's stats. For example if you want the block to be broken with an axe, then choose `minecraft:planks`
