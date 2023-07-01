@@ -5,7 +5,7 @@
         "entries": [
           {
             "type": "minecraft:loot_table",
-            "name": "earth:ancient_totem",
+            "name": "earth:block/ancient_totem",
             "conditions": [
               {
                 "condition": "minecraft:entity_properties",
@@ -18,7 +18,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "earth:booster_lootbox",
+            "name": "earth:block/booster_lootbox",
             "conditions": [
               {
                 "condition": "minecraft:entity_properties",
@@ -31,7 +31,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "earth:common_lootbox",
+            "name": "earth:block/common_lootbox",
             "conditions": [
               {
                 "condition": "minecraft:entity_properties",
@@ -44,7 +44,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "earth:copper_totem",
+            "name": "earth:block/copper_totem",
             "conditions": [
               {
                 "condition": "minecraft:entity_properties",
@@ -57,7 +57,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "earth:diamond_totem",
+            "name": "earth:block/diamond_totem",
             "conditions": [
               {
                 "condition": "minecraft:entity_properties",
@@ -70,7 +70,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "earth:gold_totem",
+            "name": "earth:block/gold_totem",
             "conditions": [
               {
                 "condition": "minecraft:entity_properties",
@@ -83,7 +83,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "earth:iron_totem",
+            "name": "earth:block/iron_totem",
             "conditions": [
               {
                 "condition": "minecraft:entity_properties",
@@ -96,7 +96,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "earth:legendary_lootbox",
+            "name": "earth:block/legendary_lootbox",
             "conditions": [
               {
                 "condition": "minecraft:entity_properties",
@@ -109,7 +109,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "earth:netherite_totem",
+            "name": "earth:block/netherite_totem",
             "conditions": [
               {
                 "condition": "minecraft:entity_properties",
@@ -122,7 +122,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "earth:rare_lootbox",
+            "name": "earth:block/rare_lootbox",
             "conditions": [
               {
                 "condition": "minecraft:entity_properties",
@@ -135,7 +135,7 @@
           },
           {
             "type": "minecraft:loot_table",
-            "name": "earth:uncommon_lootbox",
+            "name": "earth:block/uncommon_lootbox",
             "conditions": [
               {
                 "condition": "minecraft:entity_properties",
