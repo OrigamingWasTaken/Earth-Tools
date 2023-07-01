@@ -52,3 +52,7 @@ For the block to drop, you need to add your loot table to the file `earth.block/
 
 ## How it works
 To dynamically detect breaking, and place the correct hidden block, this lib uses a custom dimension (sorry realms) and falling entities.
+
+## Credits
+
+[Smithed](https://smithed.dev) for their custom block placement library
