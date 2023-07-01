@@ -29,7 +29,7 @@ You can use the template below and modify it to your liking:
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{**CustomModelData**:`<Item texture>`,BlockEntityTag:{Items:[{**id**:\"`<Hidden Block>`\",Count:1b,tag:{Earth:{**Click**:`<Enable Click detection>`,**ClickFace**:\"`<Click Face>`\",**CustomModelData**:`<Block texture>`},smithed:{block:{**id**:\"`<namespace:block_id>`\"}}}}]}}"
+                "tag": "{CustomModelData:<Item texture>,BlockEntityTag:{Items:[{id:\"<Hidden Block>\",Count:1b,tag:{Earth:{Click:<Enable Click detection>,ClickFace:\"<Click Face>\",CustomModelData:<Block texture>},smithed:{block:{id:\"<namespace:block_id>\"}}}}]}}"
               }
             ]
           }
